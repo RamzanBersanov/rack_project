@@ -1,0 +1,1 @@
+class UrlError < StandardError; end
